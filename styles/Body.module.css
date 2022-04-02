@@ -1,0 +1,24 @@
+.bodymain {
+  margin: 30px 43px 10px 43px;
+  font-family: "Inter", sans-serif;
+}
+
+.loader {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter {
+  margin-left: auto;
+  color: white;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.filter:hover {
+  cursor: pointer;
+  border-bottom: 1px solid white;
+}
